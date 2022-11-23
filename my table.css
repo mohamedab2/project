@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(to top right,black,aqua,black,aqua,black);text-align: center;margin: auto;
+}
+
+table#first {
+    border: solid 4px black;text-align:center;margin: auto;width: 550px;height:325px ;background-color: magenta;border-collapse: collapse;
+}
+
+th,td,th{
+    border: solid 1px black;
+}
+ table#second {
+    background-color:solid 4px black;text-align:center;margin: auto;width: 550px;height:325px ;background-color: aqua;border-collapse: collapse; 
+}
